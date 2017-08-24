@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kezoo/sprite-webpack-plugin.git"
+    "url": "https://github.com/seamuncle/sprite-webpack-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/kezoo/sprite-webpack-plugin/issues"
+    "url": "https://github.com/seamuncle/sprite-webpack-plugin/issues"
   },
   "keywords": [
     "sprite",
