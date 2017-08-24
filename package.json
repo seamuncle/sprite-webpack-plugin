@@ -21,6 +21,13 @@
     "css",
     "sass",
     "less",
+   "stylus"
+  ],
+  "author": "kezoo",
+  "license": "MIT",
+ "dependencies": {
+    "async": "2.3.0",
+    "cssesc": "1.0.0",
     "pajk-lwip": "0.2.0",
     "mkdirp": "^0.5.1",
     "mustache": "2.1.3",
