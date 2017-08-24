@@ -16,7 +16,7 @@ var _async = require('async');
 
 var _async2 = _interopRequireDefault(_async);
 
-var _lwip = require('lwip');
+var _lwip = require('pajk-lwip');
 
 var _lwip2 = _interopRequireDefault(_lwip);
 
